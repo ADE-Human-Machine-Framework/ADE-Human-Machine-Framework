@@ -491,3 +491,16 @@ ADE Human-Machine Framework (ADE-HMF) is part of the broader ADE standards initi
 The framework explores methods for enabling shared meaning across humans, machines, devices, and systems while allowing independent interpretation and experience based on context, intent, and capability.
 
 Current status: Architectural Hypothesis v0.1.
+...
+
+## AI Assistance
+
+Artificial intelligence tools were used during the development of this
+document to assist with research, exploration, organization, questioning,
+and drafting.
+
+The architectural concepts, direction, decisions, and final content are
+the responsibility of the originating Architect.
+
+AI assistance does not represent authorship, endorsement, or validation
+of the ADE architecture.
