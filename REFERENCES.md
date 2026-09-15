@@ -265,4 +265,126 @@ Relevant modalities include:
 
 ADE does not currently prescribe which modality should be used.
 
-The receiving en
+The receiving environment, context, capabilities, and human needs should influence which modalities are appropriate.
+
+---
+
+# 7. Standards and Organizations for Ongoing Review
+
+The following organizations maintain standards, specifications, and research that may be relevant to ADE.
+
+## World Wide Web Consortium (W3C)
+
+The W3C develops standards for the Web, accessibility, semantic technologies, linked data, Web of Things, and related technologies.
+
+**Relevance to ADE**
+
+Many concepts explored by ADE overlap with areas already being researched within the W3C ecosystem.
+
+ADE should continuously evaluate whether existing W3C standards already address proposed ADE capabilities.
+
+---
+
+## OASIS
+
+OASIS develops open standards for information exchange, security, emergency management, and interoperability.
+
+**Relevance to ADE**
+
+OASIS standards provide examples of structured information exchange across organizational and technical boundaries.
+
+---
+
+## ETSI
+
+The European Telecommunications Standards Institute develops standards related to telecommunications, IoT, and context information.
+
+**Relevance to ADE**
+
+ETSI context management work may provide useful foundations for ADE context representation.
+
+---
+
+## OPC Foundation
+
+The OPC Foundation develops interoperability standards for industrial systems.
+
+**Relevance to ADE**
+
+Industrial environments provide valuable examples of systems that separate information, capabilities, state, and presentation.
+
+---
+
+## IEEE
+
+The Institute of Electrical and Electronics Engineers develops standards across many technology domains.
+
+**Relevance to ADE**
+
+IEEE standards may provide relevant work in areas including communication, sensors, distributed systems, human machine interaction, and emerging technologies.
+
+---
+
+# 8. Areas Requiring Further Research
+
+The following areas require additional investigation before ADE can determine whether new standards or frameworks are justified.
+
+## Human Intent Representation
+
+Can intent be represented independently from interface design?
+
+Can existing standards already represent intent sufficiently?
+
+---
+
+## Context Representation
+
+Can existing context standards fully support the ADE concept of context appropriate experiences?
+
+---
+
+## Information and Experience Separation
+
+Can information be consistently represented independently from its eventual presentation?
+
+What existing architectures already support this approach?
+
+---
+
+## Human Capability and Preference Models
+
+Can existing accessibility, personalization, and adaptation standards provide the capability information needed by ADE?
+
+---
+
+## Experience Selection and Orchestration
+
+What mechanisms should determine the most appropriate experience for a given human, context, environment, and set of available capabilities?
+
+---
+
+# Architectural Origin
+
+The ADE Human Machine Framework originated from architectural research conducted by Arshad Darius Ebrahim.
+
+The purpose of ADE is to explore whether information can be represented independently from presentation and later adapted to the human, context, environment, and available capabilities.
+
+The ADE Human Machine Framework is currently an architectural hypothesis and an area of ongoing research.
+
+---
+
+# AI Assistance
+
+AI tools were used to assist with research organization, document structure, editing, and refinement.
+
+All architectural concepts, hypotheses, interpretations, conclusions, and framework direction remain under human review and authorship.
+
+---
+
+# Document Status
+
+Version: 0.1
+
+Status: Living Research Document
+
+This document will evolve as additional standards, technologies, organizations, and research areas are identified and evaluated.
