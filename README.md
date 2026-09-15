@@ -252,5 +252,6 @@ Join the Ash Darius Horizons community for discussion and collaboration:
 **GitBook**
 Browse the ADE Human Machine Framework documentation:
 [GitBook Documentation](https://ade-human-machine-framework.gitbook.io/ade-human-machine-frameworks)
+
 ---
 
