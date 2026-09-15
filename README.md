@@ -241,9 +241,18 @@ Existing technologies already provide important capabilities for:
 
 Questions, discussion, research, and feedback are welcome.
 
+**GitHub**
+Source code, issues, development, and community discussion:
+[GitHub Repository](https://github.com/ADE-Human-Machine-Framework)
+
 **Discord**
-Join the Ash Darius Horizons community:
+Join the Ash Darius Horizons community for discussion and collaboration:
 [Discord Community](https://discord.gg/VkjgSj8xd2)
+
+**GitBook**
+Browse the ADE Human Machine Framework documentation:
+[GitBook Documentation](https://ade-human-machine-framework.gitbook.io/ade-human-machine-frameworks)
+
 
 **GitBook**
 Browse the ADE Human Machine Framework documentation:
