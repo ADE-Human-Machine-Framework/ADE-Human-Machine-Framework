@@ -243,9 +243,9 @@ Questions, discussion, research, and feedback are welcome.
 
 **Discord**
 Join the Ash Darius Horizons community:
-https://discord.gg/VkjgSj8xd2
+[Discord Community](https://discord.gg/VkjgSj8xd2)
 
 **GitBook**
 Browse the ADE Human Machine Framework documentation:
-https://ade-human-machine-framework.gitbook.io/ade-human-machine-frameworks
+[GitBook Documentation](https://ade-human-machine-framework.gitbook.io/ade-human-machine-frameworks)
 
