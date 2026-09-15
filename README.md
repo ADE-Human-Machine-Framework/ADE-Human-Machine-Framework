@@ -236,3 +236,16 @@ Existing technologies already provide important capabilities for:
 
 * Semantic information
 * Data represe
+---
+## Community
+
+Questions, discussion, research, and feedback are welcome.
+
+**Discord**
+Join the Ash Darius Horizons community:
+https://discord.gg/VkjgSj8xd2
+
+**GitBook**
+Browse the ADE Human Machine Framework documentation:
+https://ade-human-machine-framework.gitbook.io/ade-human-machine-frameworks
+
