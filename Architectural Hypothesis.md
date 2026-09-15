@@ -504,3 +504,8 @@ the responsibility of the originating Architect.
 
 AI assistance does not represent authorship, endorsement, or validation
 of the ADE architecture.
+## Supporting Presentation
+
+A visual presentation supporting the ADE Human Machine Framework Architectural Hypothesis v0.1 is available as a PDF.
+
+[View the ADE Human Machine Framework Architectural Hypothesis v0.1 presentation](https://github.com/ADE-Human-Machine-Framework/ADE-Human-Machine-Framework/blob/main/ADE-HMF%20Architectural%20Hypothesis%20v0.1.pdf)
